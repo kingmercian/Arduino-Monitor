@@ -1,0 +1,44 @@
+L:\_VB_Projects\WFA_ArduinoSerial_001\WFA_ArduinoSerial_001\bin\Debug\WFA_ArduinoSerial_001.exe.config
+L:\_VB_Projects\WFA_ArduinoSerial_001\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.Form1.resources
+L:\_VB_Projects\WFA_ArduinoSerial_001\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.Resources.resources
+L:\_VB_Projects\WFA_ArduinoSerial_001\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.vbproj.GenerateResource.Cache
+L:\_VB_Projects\WFA_ArduinoSerial_001\WFA_ArduinoSerial_001\bin\Debug\WFA_ArduinoSerial_001.exe
+L:\_VB_Projects\WFA_ArduinoSerial_001\WFA_ArduinoSerial_001\bin\Debug\WFA_ArduinoSerial_001.pdb
+L:\_VB_Projects\WFA_ArduinoSerial_001\WFA_ArduinoSerial_001\bin\Debug\WFA_ArduinoSerial_001.xml
+L:\_VB_Projects\WFA_ArduinoSerial_001\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.exe
+L:\_VB_Projects\WFA_ArduinoSerial_001\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.xml
+L:\_VB_Projects\WFA_ArduinoSerial_001\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.pdb
+L:\_VB_Projects\WFA_ArduinoSerial_001\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.vbprojResolveAssemblyReference.cache
+W:\EUTC\Systems\Projects\Autotest\sound detector\WFA_ArduinoSerial_001\WFA_ArduinoSerial_001\bin\Debug\WFA_ArduinoSerial_001.exe.config
+W:\EUTC\Systems\Projects\Autotest\sound detector\WFA_ArduinoSerial_001\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.exe
+W:\EUTC\Systems\Projects\Autotest\sound detector\WFA_ArduinoSerial_001\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.xml
+W:\EUTC\Systems\Projects\Autotest\sound detector\WFA_ArduinoSerial_001\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.pdb
+W:\EUTC\Systems\Projects\Autotest\sound detector\WFA_ArduinoSerial_001\WFA_ArduinoSerial_001\bin\Debug\WFA_ArduinoSerial_001.exe
+W:\EUTC\Systems\Projects\Autotest\sound detector\WFA_ArduinoSerial_001\WFA_ArduinoSerial_001\bin\Debug\WFA_ArduinoSerial_001.pdb
+W:\EUTC\Systems\Projects\Autotest\sound detector\WFA_ArduinoSerial_001\WFA_ArduinoSerial_001\bin\Debug\WFA_ArduinoSerial_001.xml
+W:\EUTC\Systems\Projects\Autotest\sound detector\WFA_ArduinoSerial_001\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.vbprojResolveAssemblyReference.cache
+W:\EUTC\Systems\Projects\Autotest\sound detector\WFA_ArduinoSerial_001\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.Form1.resources
+W:\EUTC\Systems\Projects\Autotest\sound detector\WFA_ArduinoSerial_001\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.Resources.resources
+W:\EUTC\Systems\Projects\Autotest\sound detector\WFA_ArduinoSerial_001\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.vbproj.GenerateResource.Cache
+C:\Users\Tester-03\Desktop\Arduino Autotest\sound detector\WFA_ArduinoSerial_001\WFA_ArduinoSerial_001\bin\Debug\WFA_ArduinoSerial_001.exe.config
+C:\Users\Tester-03\Desktop\Arduino Autotest\sound detector\WFA_ArduinoSerial_001\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.exe
+C:\Users\Tester-03\Desktop\Arduino Autotest\sound detector\WFA_ArduinoSerial_001\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.xml
+C:\Users\Tester-03\Desktop\Arduino Autotest\sound detector\WFA_ArduinoSerial_001\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.pdb
+C:\Users\Tester-03\Desktop\Arduino Autotest\sound detector\WFA_ArduinoSerial_001\WFA_ArduinoSerial_001\bin\Debug\WFA_ArduinoSerial_001.exe
+C:\Users\Tester-03\Desktop\Arduino Autotest\sound detector\WFA_ArduinoSerial_001\WFA_ArduinoSerial_001\bin\Debug\WFA_ArduinoSerial_001.pdb
+C:\Users\Tester-03\Desktop\Arduino Autotest\sound detector\WFA_ArduinoSerial_001\WFA_ArduinoSerial_001\bin\Debug\WFA_ArduinoSerial_001.xml
+C:\Users\Tester-03\Desktop\Arduino Autotest\sound detector\WFA_ArduinoSerial_001\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.vbprojResolveAssemblyReference.cache
+C:\Users\Tester-03\Desktop\Arduino Autotest\sound detector\WFA_ArduinoSerial_001\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.Form1.resources
+C:\Users\Tester-03\Desktop\Arduino Autotest\sound detector\WFA_ArduinoSerial_001\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.Resources.resources
+C:\Users\Tester-03\Desktop\Arduino Autotest\sound detector\WFA_ArduinoSerial_001\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.vbproj.GenerateResource.Cache
+C:\Users\Tester-03\Desktop\Arduino Autotest Monitor\VB_AutoTestMonitor\WFA_ArduinoSerial_001\bin\Debug\WFA_ArduinoSerial_001.exe.config
+C:\Users\Tester-03\Desktop\Arduino Autotest Monitor\VB_AutoTestMonitor\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.exe
+C:\Users\Tester-03\Desktop\Arduino Autotest Monitor\VB_AutoTestMonitor\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.xml
+C:\Users\Tester-03\Desktop\Arduino Autotest Monitor\VB_AutoTestMonitor\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.pdb
+C:\Users\Tester-03\Desktop\Arduino Autotest Monitor\VB_AutoTestMonitor\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.vbprojResolveAssemblyReference.cache
+C:\Users\Tester-03\Desktop\Arduino Autotest Monitor\VB_AutoTestMonitor\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.Form1.resources
+C:\Users\Tester-03\Desktop\Arduino Autotest Monitor\VB_AutoTestMonitor\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.Resources.resources
+C:\Users\Tester-03\Desktop\Arduino Autotest Monitor\VB_AutoTestMonitor\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.vbproj.GenerateResource.Cache
+C:\Users\Tester-03\Desktop\Arduino Autotest Monitor\VB_AutoTestMonitor\WFA_ArduinoSerial_001\bin\Debug\WFA_ArduinoSerial_001.exe
+C:\Users\Tester-03\Desktop\Arduino Autotest Monitor\VB_AutoTestMonitor\WFA_ArduinoSerial_001\bin\Debug\WFA_ArduinoSerial_001.pdb
+C:\Users\Tester-03\Desktop\Arduino Autotest Monitor\VB_AutoTestMonitor\WFA_ArduinoSerial_001\bin\Debug\WFA_ArduinoSerial_001.xml
